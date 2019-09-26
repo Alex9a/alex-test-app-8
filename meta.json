@@ -1,0 +1,19 @@
+{
+    "name": "yanli-console",
+    "version": "0.1.0",
+    "hash": "d273975ea70e71d31b58edd1b207e94a",
+    "title": "妍丽管理后台",
+    "support_platform": [
+        "MOBILD"
+    ],
+    "platform": [
+        "PC"
+    ],
+    "description": "yanli-console",
+    "type": "template",
+    "category": "管理后台",
+    "screenshot": "/screenshots/d273975ea70e71d31b58edd1b207e94a.png",
+    "path": "templates/YanliConsole",
+    "origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+    "homePage": "/materials/24/distd273975ea70e71d31b58edd1b207e94a/index.html"
+}

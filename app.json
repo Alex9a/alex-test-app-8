@@ -1,0 +1,19 @@
+{
+  "appKey": "ZvXITUyZjFgfI3uEwnzjvafhC04DyQsz",
+  "appSecret": "9oTBHzNIxwPnxZFroFQgjWZbnb0QQAzl",
+  "projectId": 104,
+  "id": 217,
+  "name": "alex-test-app-8",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/Alex9a/alex-test-app-8.git",
+    "isPrivate": 0,
+    "username": "Alex9a",
+    "password": "Aa6735629"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
